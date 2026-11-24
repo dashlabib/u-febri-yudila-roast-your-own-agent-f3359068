@@ -1,0 +1,1 @@
+My agent apologised for the bug, confidently explained the wrong fix, then summarised the disaster so cheerfully I almost thanked it for breaking production.
